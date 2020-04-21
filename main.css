@@ -2,8 +2,45 @@ body {
     margin: 0px;
 }
 
-.item{
-    background: aquamarine;
-    margin: 5px;
 
+header{
+    background-color: #E6B69C;
+    height: 65px;
+}
+.block-1 .item{
+    height: 435px;
+}
+
+
+.block-1 .item.first{
+    background-color: #D5CA69;
+}
+
+.block-1 .item.second{
+    background-color: #F4A2A2;
+}
+
+.block-2 .l-blue{
+    background-color: #69C8D5;
+    height: 259px;
+}
+
+.block-2 .d-blue{
+    background-color: #89AFE8;
+    height: 85px;
+}
+
+.block-3 .arr-l{
+    background-color: #BB9BE4;
+    height: 637px;
+}
+
+.block-3 .add-d{
+    background-color: #6EB468;
+    height: 637px;
+}
+
+footer{
+    background-color: #F2A4DC;
+    height: 278px;
 }
